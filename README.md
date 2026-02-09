@@ -1,16 +1,31 @@
-## Hi there 👋
+# Vinicius Soares
 
-<!--
-**vs-vooster/vs-vooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Python and API-based applications.
 
-Here are some ideas to get you started:
+I work mainly with building REST APIs, database integrations and containerized environments for backend services.  
+My studies and projects are oriented toward practical problem solving, clean organization and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Technologies
+- Python
+- FastAPI
+- SQL (PostgreSQL, MySQL, Firebird)
+- Docker
+- Git / GitHub
+- Linux
+
+## What you’ll find here
+- Backend projects using Python and FastAPI
+- REST APIs with relational database integration
+- SQL queries with joins, filters and aggregations
+- Dockerized applications for local development
+- Automation and data processing scripts
+
+## Currently studying
+- API integrations and automations
+- Backend architecture and best practices
+- Databases and query optimization
+- Introductory concepts of LLMs and AI agents via API
+
+## Notes
+This GitHub is used to document practical learning and backend-focused projects.
+Repositories are kept concise and relevant.
